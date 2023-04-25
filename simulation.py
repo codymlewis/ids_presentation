@@ -2,7 +2,6 @@
 Simulate the federated learning of the UNSW-NB15 dataset
 """
 
-
 import flwr as fl
 
 import server
