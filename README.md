@@ -5,7 +5,8 @@ A presentation I did on the step-by-step process for machine learning and federa
 
 ## Prerequisites
 
-To run the code here, you will need to download the `UNSW_NB15_training-set.csv` and `UNSW_NB15_testing-set.csv` files and place them in a `data/` folder in this root.
+To run the code here, you will need to download the `UNSW_NB15_training-set.csv` and `UNSW_NB15_testing-set.csv` files from https://research.unsw.edu.au/projects/unsw-nb15-dataset
+and place them in a `data/` folder in this root.
 
 Then you will need to install the python library from the requirements file:
 
