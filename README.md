@@ -1,4 +1,4 @@
-# The Step-by-Step Process of ML and FL
+# Machine Learning and Federated Learning Techniques for Anomaly Detection
 
 A presentation I did on the step-by-step process for machine learning and federated learning of an Intrusion Detection System (IDS).
 
